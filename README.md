@@ -1,6 +1,6 @@
 ### Hi there I'm Nayan 👋
 
- A Full Stack Developer 🚀 from India, currently, I'm a working as a Trainee Software Engineer at Infobeans a Former Software Engineer at 💼Divergent Software Labs pvt. ltd, Indore(M.P.) Beside's programming, I love to cook food and spent a time to meditate.
+ A Full Stack Developer 🚀 from India, currently, I'm a working as a Software Engineer at Amdocs a Former Software Engineer at 💼Infobeans Technologies, Indore(M.P.) Beside's programming, I love to cook food and spent a time to meditate.
 
 Here are some ideas to get you started:
 
